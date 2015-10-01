@@ -1,0 +1,11 @@
+A file system is an organization system that an operating system uses to
+manage its files.
+
+An inode is a unix type file system that sets a point on the disk of each file 
+on the system.
+
+A disk partition is a section of a hard disk that has a set file system, 
+usually including an operating system.
+
+A journaling file system is a file system that keeps a log of everything 
+that has happened to the disk.

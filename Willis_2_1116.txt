@@ -1,0 +1,3 @@
+you use the "split" command. 
+
+"cfdisk" "falocate -l" "mkdir"
